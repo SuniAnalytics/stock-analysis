@@ -39,7 +39,11 @@
     Refactored code runs with an improvement of **87%** in execution time compared to original code. 
     Run time improved from 0.55 secs to 0.07 secs.
    
-     ![Getting started](./Resources/Screenshot1_RunTimeComparision.png)
+    !(https://github.com/SuniAnalytics/stock-analysis/blob/main/Resources/Screenshot1_RunTimeComparision.png)
+ 
+     ![https://github.com/SuniAnalytics/stock-analysis/blob/main/Resources/Screenshot1_RunTimeComparision.png]
+     
+   ![](https://github.com/SuniAnalytics/stock-analysis/blob/main/Resources/Screenshot1_RunTimeComparision.png)
 
     Refactored code's Run time for 2017 
      ![Getting started](./Resources/VBA_Challenge_2017.png)

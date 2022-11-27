@@ -31,7 +31,7 @@
        
 
 ## Summary
-
+ 
 
 ### Adv and Disadvantages of refactoring code
 'There is a detailed statement on the advantages and disadvantages of refactoring code in general

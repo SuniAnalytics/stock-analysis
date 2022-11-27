@@ -69,7 +69,8 @@
     - New Bugs/Errors
                 Modifying the code might introduce new errors as the base code is changing
     - Change in functionality
-                Along with improving functionality, there is a chance of missing existing functionality or different user experience
+                Along with improving functionality, there is a chance of missing existing functionality 
+                or different user experience
     - Testing efforts
                 Require full testing to ensure success of code refactoring
 

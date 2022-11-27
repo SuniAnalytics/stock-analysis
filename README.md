@@ -46,7 +46,7 @@
     ![](https://github.com/SuniAnalytics/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
     Refactored code's Run time for 2018 
-     ![](https://github.com/SuniAnalytics/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+     ![](https://github.com/SuniAnalytics/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png) 
 
 ## Summary
 

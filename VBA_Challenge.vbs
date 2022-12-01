@@ -71,7 +71,7 @@ Sub AllStocksAnalysisRefactored()
         'Get first row's price to store ticker's starting price
         
               
-        If Cells(i, 1).Value = tickers(tickerIndex) And Cells(i - 1, 1) <> tickers(tickerIndex) Then
+        If Cells(i, 1).Value = tickers(tickerIndex) And Cells(i - 1, 1).value <> tickers(tickerIndex) Then
                
                tickerStartingPrices(tickerIndex) = Cells(i, 6).Value
                
@@ -86,7 +86,7 @@ Sub AllStocksAnalysisRefactored()
        
          'Get Last row's Closeing price to store ticker's closing price at the year end
          
-        If Cells(i, 1).Value = tickers(tickerIndex) And Cells(i + 1, 1) <> tickers(tickerIndex) Then
+        If Cells(i, 1).Value = tickers(tickerIndex) And Cells(i + 1, 1).value <> tickers(tickerIndex) Then
         
              tickerEndingPrices(tickerIndex) = Cells(i, 6).Value
         
